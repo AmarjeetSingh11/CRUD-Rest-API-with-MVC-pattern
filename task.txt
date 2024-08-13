@@ -1,0 +1,17 @@
+REST API - JSON
+
+GET/users - List all users
+GET/users/1 - Get the user with ID 1
+GET/users/2 - Get the user with ID 2
+
+POST/users - create new user
+PATCH/users/1 - update the user with ID
+DELETE/users/1 - delete the user with ID
+
+
+
+How Mongoose Work?
+
+step 1:- Schema - Define the structure 
+step 2:- using schema we create the model
+step 3:- using model we do CRUD opreation
